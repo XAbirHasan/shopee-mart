@@ -13,7 +13,7 @@ Year: 2019
 
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "shopee-mart || e-commerce web application") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/IHRQ6FL9kL0/0.jpg)](http://www.youtube.com/watch?v=IHRQ6FL9kL0 "shopee-mart || e-commerce web application")
 
 ## Screen shot
 ### Home
